@@ -30,13 +30,15 @@
     font-family: 'lora', serif !important;
     border-bottom: black 2px solid;
 }
+
+
  /* ---------------- @medias-----------------  */
   
-@media (min-width: 992px){
+@media (min-width: 768px){
     .nav-link{
         display: none;
         
     }
 
-    
+
 }
